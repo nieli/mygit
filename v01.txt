@@ -1,0 +1,2 @@
+new object
+var function(){var i=0;}
